@@ -141,6 +141,7 @@
     param.soeAppId = [PrivateInfo shareInstance].soeAppId;
     param.secretId = [PrivateInfo shareInstance].secretId;
     param.secretKey = [PrivateInfo shareInstance].secretKey;
+    param.token = [PrivateInfo shareInstance].token;
     param.workMode = TAIOralEvaluationWorkMode_Once;
     param.evalMode = TAIOralEvaluationEvalMode_Sentence;
     param.serverType = TAIOralEvaluationServerType_English;

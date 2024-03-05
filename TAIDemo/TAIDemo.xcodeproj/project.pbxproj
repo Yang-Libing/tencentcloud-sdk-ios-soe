@@ -352,14 +352,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = Y9PT5KD6V4;
+				DEVELOPMENT_TEAM = U8AZYCLN77;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SRCROOT)/../../taisdk/TAISDK/Frameworks",
 					"$(PROJECT_DIR)/Frameworks",
 				);
 				HEADER_SEARCH_PATHS = "$(SRCROOT)/../../taisdk/TAISDK/TAISDK/**";
 				INFOPLIST_FILE = TAIDemo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -384,7 +384,7 @@
 				);
 				HEADER_SEARCH_PATHS = "$(SRCROOT)/../../taisdk/TAISDK/TAISDK/**";
 				INFOPLIST_FILE = TAIDemo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
